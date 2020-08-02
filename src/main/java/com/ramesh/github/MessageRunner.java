@@ -10,6 +10,7 @@ public class MessageRunner implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		System.out.println("SPRINGBOOT_GITBUB");
+		System.out.println("HELLO SPRINGBOOT");
 
 	}
 
